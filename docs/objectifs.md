@@ -10,16 +10,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 ## Contexte du Projet
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+Ce proget rentre dans le contexte d'un proget pour l'ecole (Unilasalle), ce proget et celui du second semetresse dans la UE projet applicatif, sous la tutelle de Mr Bracq et Mr Lacombe. Ce proget fait suite a notre premier proget l'armee medeval lors du premier semesstre 
 
 ## Objectifs du Projet
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede.
+Le bute de ce porget de refaire un robot qui se nome Otto, de le programmer. Puis le veritable butt de ce proget est d'imaginer et de rendre de maniere concrette les ameliorations que l'on a imaginer. 
 
 # Existant
 
-Praesent blandit adipiscing velit. Suspendisse potenti. Donec mattis, pede vel pharetra blandit, magna ligula faucibus eros, id euismod lacus dolor eget odio.
+Pour notre groupe cela etait extrement excitant car on avait pas de limite, la seul limite c'est nous vonlonter et notre imagination.
 
 # Cahier des Charges
 
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
+Le cahier des charges est tout simple voici les obligations du robot : 
+- qu'il marche
+- que s'il y a des modification, qu'elles ne soient pas dangereuseux pour les humains.
+- un rappart detailler(site ou document)
+- une video d'au minimun 1 munite 
