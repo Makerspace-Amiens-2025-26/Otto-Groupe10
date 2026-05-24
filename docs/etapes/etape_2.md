@@ -12,14 +12,20 @@ Après la préparation des matériaux, l'étape suivante est l'assemblage.
 ## Étapes d'Assemblage
 
 1. **Organisation** : Organisez tous les composants préparés.
-2. **Assemblage Initial** : Commencez par assembler les pièces principales.
-3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
+2. **Assemblage Initial** : Suiver les étapes pour pouvoir assembler l'OTTo de base.
+3. **Assemblage de la modificattion** : Suiver les étapes pour pouvoir rajouter la modification.
+4. **décoration** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
 
-## Vérifications à Effectuer
+## 1 Organisation
 
-- Assurez-vous que toutes les pièces sont correctement alignées.
-- Vérifiez la stabilité et la solidité de l'assemblage.
-
+Vérifier si vous avez toutes les pièces donc voici la listes des pièces : 
+- 
+- 
+- 
+-
+-
+-
+-
 ## Problèmes Communs et Solutions
 
 - Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
