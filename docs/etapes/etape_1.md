@@ -19,7 +19,7 @@ Cette section décrit la première étape du processus de fabrication : la prép
 ## Procédure de Préparation
 
 1. **Imprimer** : imprimer tout les pièces du Otto.
-2. **Vérification** : vérifier tout les élèments non imprimer pour voir si il sont en bonne état.
+2. **Vérification** : vérifier tout les élèments non imprimer pour voir s'ils sont en bonne état.
 
 
 Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
