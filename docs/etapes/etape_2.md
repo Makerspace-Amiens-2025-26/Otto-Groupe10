@@ -37,7 +37,8 @@ Vérifier si vous avez toutes les pièces donc voici la listes des pièces :
 
 Pour faire au plus simple je vois redirige vers un mode d'emploie pour tout d'abord assembler l'Otto. 
 
-
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
+{: .warning }
 
 ## 3 Assemblage de la modification
 
