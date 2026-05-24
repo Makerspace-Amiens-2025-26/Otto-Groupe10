@@ -7,25 +7,19 @@ nav_order: 1
 
 # Préparation des Matériaux
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Cette section décrit la première étape du processus de fabrication : la préparation des matériaux et des composants.
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- L'emsemble des pièces de l'OTTO imprimer en PLA
+- 5 servo-moteurs
+- 1 carte de controlle pour OTTO
+- 1 capteur ultrason
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Imprimer** : imprimer tout les pièces du Otto.
+2. **Vérification** : vérifier tout les élèments non imprimer pour voir si il sont en bonne état.
 
-## Conseils de Sécurité
-
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
-
----
 
 Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
