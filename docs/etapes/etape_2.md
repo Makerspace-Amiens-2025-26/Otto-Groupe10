@@ -44,6 +44,22 @@ Pour faire au plus simple je vois redirige vers un mode d'emploie pour tout d'ab
 
 ## 3 Assemblage de la modification
 
+Pour la modification prennait l'abdommer, le dernier servo-moteur, une vice, l'ecrou, la langue et un horn (1 branche). 
+
+Couper l'horn au niveau de la 2 trou a partant du haut, puis placer le haut niveau du servo-moteur. 
+
+Insere le servo-moteur dans le trose au niveau du trou. 
+
+Ensuite placer la lague dans le tube jusqu'au fond. 
+
+Pour finir placer l'ecrou au dessus du servo-moteur puis vicer le tout avec la vice. 
+
+Si vous voulez vous pouvez rajouter une vice en plus au niveau de petit trou au tour du servo motteur pour le solidifier. (cette etape n'es pas obligatoir)
+
+## 4 Decoration
+
+tout simplement les 2 petit tache vont dans le dos placer les dans les trou puis trouner. faite la meme chose avec les taches grandes sur les autres trous. 
+
 ## Problèmes Communs et Solutions
 
 - Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
