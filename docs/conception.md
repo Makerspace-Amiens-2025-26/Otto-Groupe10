@@ -6,7 +6,7 @@ title: Conception et prototypage
 
 # Conception et prototypage
 
-Dans cette partie je vais surtout parler des eurreurs et des dificulter que l'on a pus renconter lors de la realisation du proget. 
+Dans cette partie je vais surtout parler des eurreurs et des dificulter que l'on a pus renconter lors de la realisation du proget.  
 
 ## Les eurreurs 
 Nos principales erreurs a etait lors de la modification de torse de notre otto entre mauvaise modelisation et muavaise inprission cela a etait un veriratble defie mias nous avons reussit. L'erreur la plus importante que l'on a fait a etait de ne pas modeliser un tunelle pour la langue pour guider son mouvement.
