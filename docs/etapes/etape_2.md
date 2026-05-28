@@ -48,13 +48,12 @@ Pour la modification prennait l'abdommer, le dernier servo-moteur, une vice, l'e
 
 Couper l'horn au niveau de la 2 trou a partant du haut, puis placer le haut niveau du servo-moteur. 
 
-Insere le servo-moteur dans le trose au niveau du trou. 
+Insere le servo-moteur dans le trose au niveau du trou. Puis utiliser une ou deux vise pour bloquer ton servo-moteur. 
 
 Ensuite placer la lague dans le tube jusqu'au fond. 
 
 Pour finir placer l'ecrou au dessus du servo-moteur puis vicer le tout avec la vice. 
 
-Si vous voulez vous pouvez rajouter une vice en plus au niveau de petit trou au tour du servo motteur pour le solidifier. (cette etape n'es pas obligatoir)
 
 ## 4 Decoration
 
