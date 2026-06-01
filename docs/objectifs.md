@@ -6,24 +6,25 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+C’est le projet final de cette première année en école d’ingénieur. Il réunit de nombreuses matières vers un seul objectif : analyser et comprendre le fonctionnement de ce petit robot « OTTO ». 
 
 ## Contexte du Projet
 
-Ce proget rentre dans le contexte d'un proget pour l'ecole (Unilasalle), ce proget et celui du second semetresse dans la UE projet applicatif, sous la tutelle de Mr Bracq et Mr Lacombe. Ce proget fait suite a notre premier proget l'armee medeval lors du premier semesstre 
+Ce travail s'inscrit dans le cadre de l'Unité d'Enseignement (UE) 'Projet Applicatif' du second semestre à Unilasalle. Supervisé par MM. BRACQ et LACOMBE, il fait suite à notre première réalisation du semestre précédent, consacrée à l'arme médiévale.
 
 ## Objectifs du Projet
 
-Le bute de ce porget de refaire un robot qui se nome Otto, de le programmer. Puis le veritable butt de ce proget est d'imaginer et de rendre de maniere concrette les ameliorations que l'on a imaginer. 
+Le but de ce projet est de refaire le robot « Otto », de le programmer ; puis finalement d'imaginer et de rendre possible les améliorations que l'on aura imaginées. 
 
 # Existant
 
-Pour notre groupe cela etait extrement excitant car on avait pas de limite, la seul limite c'est nous vonlonter et notre imagination.
+Pour notre groupe, ce projet fut très intéressant et motivant car les seules limites rencontrées furent notre volonté et notre imagination. 
 
 # Cahier des Charges
 
-Le cahier des charges est tout simple voici les obligations du robot : 
-- qu'il marche
-- que s'il y a des modification, qu'elles ne soient pas dangereuseux pour les humains.
-- un rappart detailler(site ou document)
-- une video d'au minimun 1 munite 
+Le cahier des charges est simple voici les obligations du robot : 
+●	Il doit marcher 
+●	En cas de modifications, elles ne doivent pas être dangereuses pour les humains. 
+●	Un rapport détaillé (site ou document) 
+●	Une vidéo d'une minimum de 1 minute 30 
+ 
