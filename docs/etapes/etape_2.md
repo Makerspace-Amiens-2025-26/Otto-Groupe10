@@ -53,19 +53,19 @@ Pour la modification prenez l’abdomen, le dernier servo-moteur, 3 vis, l’éc
 
 Coupez l’horn au niveau du 2ème trou en partant du haut, puis placez le haut niveau du servo-moteur. 
 
-![etape 1](images/modecusto1.jpg)
+![etape 1](images/mode_custo_1.jpg)
 
 Insèrez le servo-moteur dans le torse au niveau du trou. Puis utilisez une ou deux vis pour bloquer votre servo-moteur.
 
-![etape 2](images/modecusto2.jpg)
+![etape 2](images/mode_custo_2.jpg)
 
 Ensuite placez la langue dans le tube jusqu’au fond. 
 
-![etape 3](images/modecusto3.jpg)
+![etape 3](images/mode_custo_3.jpg)
 
 Pour finir placez l’écrou au-dessus du servo-moteur puis vissez le tout avec la vis
  
-![etape 4](images/modecusto4.jpg)
+![etape 4](images/mode_custo_4.jpg)
 
 
 ## 4 Decoration
@@ -73,7 +73,7 @@ Pour finir placez l’écrou au-dessus du servo-moteur puis vissez le tout avec 
 Tout simplement les 2 petites taches vont dans le dos, placez-les dans les trous puis tournez. Faites la même chose avec les taches grandes sur les autres trous.  
 ![deco 1](images/decoration.jpg)
 
-![deco 2](images/decoration2.jpg)
+![deco 2](images/decoration_2.jpg)
 
 
 ## Problèmes Communs et Solutions
