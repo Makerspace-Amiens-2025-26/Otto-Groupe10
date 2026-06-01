@@ -7,12 +7,13 @@ title: Études et choix techniques
 # Études et choix techniques
 
 ## Idée du proget
-Nous somme partie de l'idee de faire Yoshi, un personnage celerbre du monde de Mario, mais en le changent de sa forme habituelle. Il a était décider de fusion en un les deux formes les plus celerbre de Yoshi, sa forme dinosore et sa forme oeuf. Cela nous donne un yoshi entrain de sortir de sont oeuf, ou il n'y a que c'est jambe et c'est yeux qui sorte.
+On est parti de l’idée de faire Yoshi, un personnage célèbre du monde de Mario, mais en le changeant de sa forme habituelle. Il a été décidé de fusionner en un les deux formes les plus célèbres de Yoshi, sa forme dinosaure et sa forme œuf. Cela nous donne un Yoshi en train de sortir de son œuf, où il n’y a que ses jambes et ses yeux qui sortent. 
 
-Nous lui avons aussi rajouter sa célèbre langue, avec la quelle il attaque et gobe les ennemies. Comme nous ne pouvons pas gober nous adeversaire, il ne servira qu'a repousser les autres Ottos.  
+Nous lui avons aussi ajouté sa célèbre langue, avec laquelle il attaque et gobe les ennemis. Comme nous ne pouvons pas gober nos adversaires, il ne servira qu’à repousser les autres Ottos. 
+  
 ## Choix technique
-### Les tahces 
-Nous voulions partir sur une idee de pourvoir laisser le chois des couleurs libres, donc nous avons crée les deux types de taches de manière a ce qu'ils puissent être retirer de manière simple de et pouvoir les chnger quand ont le veux. 
+### Les taches  
+Nous voulions partir sur une idée de pourvoir laisser le choix des couleurs libres, donc nous avons créé les deux types de taches de manière qu’ils puissent être retirer de manière simple de et pouvoir les changer au gré de nos envies. 
 
 ### la langue
-La Langue aura était un défine tecknique de tailles car on ne pouvais pas mettre le servo-moteur sur le côté donc on a dus le mettre droit. On déssiner un tunnelle permettant de guider le mouvement de la langue qui est entrainer par un engrenage, qui es fixé sur le servo-motteur. 
+La Langue aura été un défi technique de taille car on ne pouvait pas mettre le servo-moteur sur le côté donc on a dû le mettre droit. On a dessiné un tunnel permettant de guider le mouvement de la langue qui est entraînée par un engrenage, qui est fixé sur le servo-moteur. 
