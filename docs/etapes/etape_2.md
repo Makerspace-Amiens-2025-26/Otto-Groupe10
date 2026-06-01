@@ -75,7 +75,6 @@ Tout simplement les 2 petites taches vont dans le dos, placez-les dans les trous
 
 ![deco 2](images/decoration_2.jpg)
 
-
 ## Problèmes Communs et Solutions
 
 - Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
