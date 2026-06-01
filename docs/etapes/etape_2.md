@@ -35,7 +35,7 @@ Vérifier si vous avez toutes les pièces donc voici la listes des pièces :
 -   Cosse 9V
 ## 2 Assemblage Initial 
 
-Pour faire au plus simple je vois redirige vers un mode d'emploie pour tout d'abord assembler l'Otto. 
+Pour faire au plus simple je vous redirige vers un mode d’emploi pour tout d’abord assembler l’Otto. 
 
 [Le mode d'emploie](https://makerspace-amiens.fr/otto-mks/docs/tutoriels/09-assemble-otto/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
@@ -44,20 +44,21 @@ Pour faire au plus simple je vois redirige vers un mode d'emploie pour tout d'ab
 
 ## 3 Assemblage de la modification
 
-Pour la modification prennait l'abdommer, le dernier servo-moteur, une vice, l'ecrou, la langue et un horn (1 branche). 
+Pour la modification prenez l’abdomen, le dernier servo-moteur, 3 vis, l’écrou, la langue et un horn (1 branche). 
 
-Couper l'horn au niveau de la 2 trou a partant du haut, puis placer le haut niveau du servo-moteur. 
+Coupez l’horn au niveau du 2ème trou en partant du haut, puis placez le haut niveau du servo-moteur. 
 
-Insere le servo-moteur dans le trose au niveau du trou. Puis utiliser une ou deux vise pour bloquer ton servo-moteur. 
+Insèrez le servo-moteur dans le torse au niveau du trou. Puis utilisez une ou deux vis pour bloquer votre servo-moteur. 
 
-Ensuite placer la lague dans le tube jusqu'au fond. 
+Ensuite placez la langue dans le tube jusqu’au fond. 
 
-Pour finir placer l'ecrou au dessus du servo-moteur puis vicer le tout avec la vice. 
+Pour finir placez l’écrou au-dessus du servo-moteur puis vissez le tout avec la vis
+ 
 
 
 ## 4 Decoration
 
-tout simplement les 2 petit tache vont dans le dos placer les dans les trou puis trouner. faite la meme chose avec les taches grandes sur les autres trous. 
+Tout simplement les 2 petites taches vont dans le dos, placez-les dans les trous puis tournez. Faites la même chose avec les taches grandes sur les autres trous.  
 
 ## Problèmes Communs et Solutions
 
