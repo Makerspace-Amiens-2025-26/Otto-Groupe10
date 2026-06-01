@@ -19,7 +19,7 @@ Bienvenue dans la documentation du projet OTTO. Ce site a pour but de fournir to
 
 ## À propos du Projet
 
-Ce projet a pour but de refaire un célèbre petit robot qui est OTTO, le but est de faire et comprendre ce petit robot puis dans un second temps modifier le robot comme bon nous semble.
+Ce projet a pour but de refaire un célèbre petit robot « OTTO ». L'objectif est d'assembler et de comprendre le fonctionnement de ce petit robot, avant de pouvoir le modifier et le personnaliser comme nous le souhaitons.
 
 
 ## Poster
